@@ -63,17 +63,21 @@ b. HBG1/2 promoter-edited cells and control cells.
 - BCL11A associated changes were enriched in processes like wound healing, blood physiology while gor HBG promoter associated chnges were evident in RNA-related processes and cellular mechanisms.
 - although they don't independently establish pathway activation, direct regulation or any changes in the hemoglobin production.
 
-## 7. Limitations
+## 7. Key learnings
 
-1. **Sample size:** The analysis includes three biological replicates per condition, which limits statistical power and the ability to capture biological variability.
+working with gene count matrices, sample metadata and Ensembl gene identifiers.
 
-2. **Published count matrix:** The analysis uses an existing gene count matrix rather than independently processing raw FASTQ files. Therefore, upstream read quality control, alignment and quantification could not be independently evaluated.
+understanding DESeq2, normalized counts, log2 fold changes, p-values and adjusted p-values.
 
-3. **Gene annotation coverage:** Not all Ensembl gene identifiers could be mapped to gene symbols, and not all annotated genes had associated Gene Ontology terms. This may affect the coverage of downstream enrichment analysis.
+interpreting PCA, MA plots, volcano plots and sample-distance heatmaps to explore gene expression patterns.
 
-4. **Biological interpretation:** Differential expression and GO enrichment identify statistical associations. They do not establish direct regulatory mechanisms, pathway activation or causality.
+mapping Ensembl identifiers to gene symbols using org.Hs.eg.db and understanding annotation coverage.
 
-5. **Functional validation:** Transcriptomic findings alone cannot confirm changes in haemoglobin production, protein abundance or cellular phenotype. Additional experimental validation would be required.
+understanding Gene Ontology biological process enrichment, over-representation analysis and adjusted p-values using clusterProfiler.
+
+exploring how different CRISPR-Cas9 editing strategies are associated with distinct transcriptomic changes in erythroid cells.
+
+organizing scripts, datasets, results, figures and project documentation into a structured project repository.
 
 
 
