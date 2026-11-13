@@ -65,19 +65,19 @@ b. HBG1/2 promoter-edited cells and control cells.
 
 ## 7. Key learnings
 
-working with gene count matrices, sample metadata and Ensembl gene identifiers.
+- working with gene count matrices, sample metadata and Ensembl gene identifiers.
 
-understanding DESeq2, normalized counts, log2 fold changes, p-values and adjusted p-values.
+- understanding DESeq2, normalized counts, log2 fold changes, p-values and adjusted p-values.
 
-interpreting PCA, MA plots, volcano plots and sample-distance heatmaps to explore gene expression patterns.
+- interpreting PCA, MA plots, volcano plots and sample-distance heatmaps to explore gene expression patterns.
 
-mapping Ensembl identifiers to gene symbols using org.Hs.eg.db and understanding annotation coverage.
+- mapping Ensembl identifiers to gene symbols using org.Hs.eg.db and understanding annotation coverage.
 
-understanding Gene Ontology biological process enrichment, over-representation analysis and adjusted p-values using clusterProfiler.
+- understanding Gene Ontology biological process enrichment, over-representation analysis and adjusted p-values using clusterProfiler.
 
-exploring how different CRISPR-Cas9 editing strategies are associated with distinct transcriptomic changes in erythroid cells.
+- exploring how different CRISPR-Cas9 editing strategies are associated with distinct transcriptomic changes in erythroid cells.
 
-organizing scripts, datasets, results, figures and project documentation into a structured project repository.
+- organizing scripts, datasets, results, figures and project documentation into a structured project repository.
 
 
 
