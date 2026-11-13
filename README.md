@@ -18,12 +18,12 @@ b. HBG1/2 promoter-edited cells and control cells.
 
 ## 3. Tools and Databases
 
--R: Statistical computing and data analysis.
--RStudio: Analysis environment.
--DESeq2: Differential gene expression analysis.
--org.Hs.eg.db: Human gene annotation.
--clusterProfiler: Gene Ontology enrichment analysis.
--ggplot2: Data visualization.
+- R: Statistical computing and data analysis.
+- RStudio: Analysis environment.
+- DESeq2: Differential gene expression analysis.
+- org.Hs.eg.db: Human gene annotation.
+- clusterProfiler: Gene Ontology enrichment analysis.
+- ggplot2: Data visualization.
 
 ## 4. Rough Workflow
 
