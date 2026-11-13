@@ -82,5 +82,3 @@ b. HBG1/2 promoter-edited cells and control cells.
 
 
 
-
-BCL11A-associated changes were enriched in several processes related to cellular interactions and blood physiology, whereas HBG promoter-associated changes showed enrichment in RNA-related processes and cellular metabolism.
